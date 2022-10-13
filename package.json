@@ -1,5 +1,5 @@
 {
-  "name": "totp-generator",
+  "name": "@smallcase/totp-generator",
   "version": "0.0.14",
   "description": "Generate TOTP tokens from key",
   "main": "index.js",
